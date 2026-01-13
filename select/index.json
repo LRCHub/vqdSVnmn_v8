@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Break It Down",
+  "base_artist": "Vestia Zeta",
+  "createdAt": "2026-01-13T02:51:41.682230Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Break It Down",
+      "artist": "jonatan leandoer96",
+      "has_synced": false,
+      "path": "select/01_Break_It_Down_jonatan_leandoer96.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Break It Down Again",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/02_Break_It_Down_Again_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Break It Down Again - Acoustic Version",
+      "artist": "Tears for Fears",
+      "has_synced": false,
+      "path": "select/03_Break_It_Down_Again_-_Acoustic_Version_Tears_for_Fears.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Break It Down Again",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/04_Break_It_Down_Again_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby Break It Down",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/05_Baby_Break_It_Down_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Break It Down",
+      "artist": "Kidz In the Hall",
+      "has_synced": true,
+      "path": "select/06_Break_It_Down_Kidz_In_the_Hall.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Break It Down Again",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/07_Break_It_Down_Again_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'mma Break It Down - Edited",
+      "artist": "Eazy-E",
+      "has_synced": true,
+      "path": "select/08_I'mma_Break_It_Down_-_Edited_Eazy-E.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'mma Break It Down",
+      "artist": "Eazy-E",
+      "has_synced": false,
+      "path": "select/09_I'mma_Break_It_Down_Eazy-E.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Break It Down",
+      "artist": "Loose Logic",
+      "has_synced": false,
+      "path": "select/10_Break_It_Down_Loose_Logic.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby break it down",
+      "artist": "Rolling Stones",
+      "has_synced": true,
+      "path": "select/11_Baby_break_it_down_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Break It Down Again",
+      "artist": "Tears For Fears",
+      "has_synced": false,
+      "path": "select/12_Break_It_Down_Again_Tears_For_Fears.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Break It Down Again (acoustic version)",
+      "artist": "Tears for Fears",
+      "has_synced": false,
+      "path": "select/13_Break_It_Down_Again_(acoustic_version)_Tears_for_Fears.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Break It Down",
+      "artist": "Talisman",
+      "has_synced": true,
+      "path": "select/14_Break_It_Down_Talisman.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Break It Down",
+      "artist": "Vestia Zeta",
+      "has_synced": false,
+      "path": "select/pl_01_Break_It_Down_Vestia_Zeta.txt"
+    }
+  ]
+}
